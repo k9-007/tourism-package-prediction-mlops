@@ -1,0 +1,22 @@
+{
+  "best_params": {
+    "xgbclassifier__colsample_bytree": 1.0,
+    "xgbclassifier__learning_rate": 0.1,
+    "xgbclassifier__max_depth": 7,
+    "xgbclassifier__n_estimators": 200,
+    "xgbclassifier__subsample": 1.0
+  },
+  "metrics": {
+    "train_accuracy": 1.0,
+    "train_precision": 1.0,
+    "train_recall": 1.0,
+    "train_f1": 1.0,
+    "train_roc_auc": 1.0,
+    "test_accuracy": 0.9402241594022416,
+    "test_precision": 0.8689655172413793,
+    "test_recall": 0.8129032258064516,
+    "test_f1": 0.84,
+    "test_roc_auc": 0.9540023894862605
+  },
+  "mlflow_run_id": "0a5cae83a6314d0799d781798cd9c485"
+}
